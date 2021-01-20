@@ -1,6 +1,6 @@
-# Venus
+# The New Knighted Attendance Log
 
-A landing page template.
+A landing page to showcase the newest version of Knighted's attendance tracking software.
 
 * [Getting started](#getting-started)
 
